@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Alexsnd <snd.dnb@gmail.com>",
+  "repository": "https://github.com/AlexSND/best-runner-backend",
   "scripts": {
     "start": "ts-node src/index.ts"
   },
